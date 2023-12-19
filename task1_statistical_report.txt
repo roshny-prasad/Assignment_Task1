@@ -1,0 +1,720 @@
+Tabulating statistics for Chromosome chr1
+
+Chromosome chr1 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr1/stats_non_filtered.txt:SN	0	number of records:	4604
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr1/stats_non_filtered.txt:SN	0	number of SNPs:	4272
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr1/stats_non_filtered.txt:SN	0	number of indels:	332
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr1/stats_filtered.txt:SN	0	number of records:	4340
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr1/stats_filtered.txt:SN	0	number of SNPs:	4029
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr1/stats_filtered.txt:SN	0	number of indels:	311
+
+Summary Statistics of INFO/DP Field:
+Mean: 57.1025 Median: 0
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.663228 Median: 0
+Tabulation completed for Chromosome chr1
+Tabulating statistics for Chromosome chr2
+
+Chromosome chr2 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr2/stats_non_filtered.txt:SN	0	number of records:	3335
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr2/stats_non_filtered.txt:SN	0	number of SNPs:	3075
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr2/stats_non_filtered.txt:SN	0	number of indels:	262
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr2/stats_filtered.txt:SN	0	number of records:	3223
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr2/stats_filtered.txt:SN	0	number of SNPs:	2983
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr2/stats_filtered.txt:SN	0	number of indels:	242
+
+Summary Statistics of INFO/DP Field:
+Mean: 52.3196 Median: 
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.664468 Median: 
+Tabulation completed for Chromosome chr2
+Tabulating statistics for Chromosome chr3
+
+Chromosome chr3 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr3/stats_non_filtered.txt:SN	0	number of records:	2299
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr3/stats_non_filtered.txt:SN	0	number of SNPs:	2110
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr3/stats_non_filtered.txt:SN	0	number of indels:	189
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr3/stats_filtered.txt:SN	0	number of records:	2168
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr3/stats_filtered.txt:SN	0	number of SNPs:	1997
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr3/stats_filtered.txt:SN	0	number of indels:	171
+
+Summary Statistics of INFO/DP Field:
+Mean: 48.9826 Median: 
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.670726 Median: 
+Tabulation completed for Chromosome chr3
+Tabulating statistics for Chromosome chr4
+
+Chromosome chr4 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr4/stats_non_filtered.txt:SN	0	number of records:	1810
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr4/stats_non_filtered.txt:SN	0	number of SNPs:	1656
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr4/stats_non_filtered.txt:SN	0	number of indels:	155
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr4/stats_filtered.txt:SN	0	number of records:	1706
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr4/stats_filtered.txt:SN	0	number of SNPs:	1562
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr4/stats_filtered.txt:SN	0	number of indels:	145
+
+Summary Statistics of INFO/DP Field:
+Mean: 46.6934 Median: 0
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.66547 Median: 0
+Tabulation completed for Chromosome chr4
+Tabulating statistics for Chromosome chr5
+
+Chromosome chr5 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr5/stats_non_filtered.txt:SN	0	number of records:	1938
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr5/stats_non_filtered.txt:SN	0	number of SNPs:	1760
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr5/stats_non_filtered.txt:SN	0	number of indels:	179
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr5/stats_filtered.txt:SN	0	number of records:	1893
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr5/stats_filtered.txt:SN	0	number of SNPs:	1724
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr5/stats_filtered.txt:SN	0	number of indels:	170
+
+Summary Statistics of INFO/DP Field:
+Mean: 52.628 Median: 0
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.672085 Median: 0
+Tabulation completed for Chromosome chr5
+Tabulating statistics for Chromosome chr6
+
+Chromosome chr6 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr6/stats_non_filtered.txt:SN	0	number of records:	2869
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr6/stats_non_filtered.txt:SN	0	number of SNPs:	2634
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr6/stats_non_filtered.txt:SN	0	number of indels:	237
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr6/stats_filtered.txt:SN	0	number of records:	2755
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr6/stats_filtered.txt:SN	0	number of SNPs:	2534
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr6/stats_filtered.txt:SN	0	number of indels:	223
+
+Summary Statistics of INFO/DP Field:
+Mean: 49.4273 Median: 
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.657895 Median: 
+Tabulation completed for Chromosome chr6
+Tabulating statistics for Chromosome chr7
+
+Chromosome chr7 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr7/stats_non_filtered.txt:SN	0	number of records:	2305
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr7/stats_non_filtered.txt:SN	0	number of SNPs:	2105
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr7/stats_non_filtered.txt:SN	0	number of indels:	200
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr7/stats_filtered.txt:SN	0	number of records:	2174
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr7/stats_filtered.txt:SN	0	number of SNPs:	1991
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr7/stats_filtered.txt:SN	0	number of indels:	183
+
+Summary Statistics of INFO/DP Field:
+Mean: 51.108 Median: 
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.672234 Median: 
+Tabulation completed for Chromosome chr7
+Tabulating statistics for Chromosome chr8
+
+Chromosome chr8 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr8/stats_non_filtered.txt:SN	0	number of records:	1661
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr8/stats_non_filtered.txt:SN	0	number of SNPs:	1533
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr8/stats_non_filtered.txt:SN	0	number of indels:	128
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr8/stats_filtered.txt:SN	0	number of records:	1580
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr8/stats_filtered.txt:SN	0	number of SNPs:	1460
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr8/stats_filtered.txt:SN	0	number of indels:	120
+
+Summary Statistics of INFO/DP Field:
+Mean: 51.8098 Median: 
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.673992 Median: 
+Tabulation completed for Chromosome chr8
+Tabulating statistics for Chromosome chr9
+
+Chromosome chr9 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr9/stats_non_filtered.txt:SN	0	number of records:	1851
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr9/stats_non_filtered.txt:SN	0	number of SNPs:	1693
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr9/stats_non_filtered.txt:SN	0	number of indels:	159
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr9/stats_filtered.txt:SN	0	number of records:	1764
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr9/stats_filtered.txt:SN	0	number of SNPs:	1619
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr9/stats_filtered.txt:SN	0	number of indels:	146
+
+Summary Statistics of INFO/DP Field:
+Mean: 54.3803 Median: 
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.67342 Median: 
+Tabulation completed for Chromosome chr9
+Tabulating statistics for Chromosome chr10
+
+Chromosome chr10 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr10/stats_non_filtered.txt:SN	0	number of records:	1889
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr10/stats_non_filtered.txt:SN	0	number of SNPs:	1737
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr10/stats_non_filtered.txt:SN	0	number of indels:	152
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr10/stats_filtered.txt:SN	0	number of records:	1769
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr10/stats_filtered.txt:SN	0	number of SNPs:	1628
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr10/stats_filtered.txt:SN	0	number of indels:	141
+
+Summary Statistics of INFO/DP Field:
+Mean: 52.0704 Median: 
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.673902 Median: 
+Tabulation completed for Chromosome chr10
+Tabulating statistics for Chromosome chr11
+
+Chromosome chr11 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr11/stats_non_filtered.txt:SN	0	number of records:	2851
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr11/stats_non_filtered.txt:SN	0	number of SNPs:	2611
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr11/stats_non_filtered.txt:SN	0	number of indels:	242
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr11/stats_filtered.txt:SN	0	number of records:	2769
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr11/stats_filtered.txt:SN	0	number of SNPs:	2547
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr11/stats_filtered.txt:SN	0	number of indels:	224
+
+Summary Statistics of INFO/DP Field:
+Mean: 54.2227 Median: 
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.668011 Median: 
+Tabulation completed for Chromosome chr11
+Tabulating statistics for Chromosome chr12
+
+Chromosome chr12 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr12/stats_non_filtered.txt:SN	0	number of records:	2274
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr12/stats_non_filtered.txt:SN	0	number of SNPs:	2086
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr12/stats_non_filtered.txt:SN	0	number of indels:	188
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr12/stats_filtered.txt:SN	0	number of records:	2211
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr12/stats_filtered.txt:SN	0	number of SNPs:	2037
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr12/stats_filtered.txt:SN	0	number of indels:	174
+
+Summary Statistics of INFO/DP Field:
+Mean: 51.7753 Median: 0
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.656992 Median: 0
+Tabulation completed for Chromosome chr12
+Tabulating statistics for Chromosome chr13
+
+Chromosome chr13 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr13/stats_non_filtered.txt:SN	0	number of records:	756
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr13/stats_non_filtered.txt:SN	0	number of SNPs:	665
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr13/stats_non_filtered.txt:SN	0	number of indels:	91
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr13/stats_filtered.txt:SN	0	number of records:	715
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr13/stats_filtered.txt:SN	0	number of SNPs:	634
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr13/stats_filtered.txt:SN	0	number of indels:	81
+
+Summary Statistics of INFO/DP Field:
+Mean: 48.4206 Median: 0
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.641534 Median: 0
+Tabulation completed for Chromosome chr13
+Tabulating statistics for Chromosome chr14
+
+Chromosome chr14 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr14/stats_non_filtered.txt:SN	0	number of records:	1791
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr14/stats_non_filtered.txt:SN	0	number of SNPs:	1622
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr14/stats_non_filtered.txt:SN	0	number of indels:	171
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr14/stats_filtered.txt:SN	0	number of records:	1728
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr14/stats_filtered.txt:SN	0	number of SNPs:	1570
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr14/stats_filtered.txt:SN	0	number of indels:	160
+
+Summary Statistics of INFO/DP Field:
+Mean: 50.3361 Median: 
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.67225 Median: 
+Tabulation completed for Chromosome chr14
+Tabulating statistics for Chromosome chr15
+
+Chromosome chr15 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr15/stats_non_filtered.txt:SN	0	number of records:	1612
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr15/stats_non_filtered.txt:SN	0	number of SNPs:	1499
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr15/stats_non_filtered.txt:SN	0	number of indels:	114
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr15/stats_filtered.txt:SN	0	number of records:	1475
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr15/stats_filtered.txt:SN	0	number of SNPs:	1377
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr15/stats_filtered.txt:SN	0	number of indels:	99
+
+Summary Statistics of INFO/DP Field:
+Mean: 51.6632 Median: 0
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.669975 Median: 0
+Tabulation completed for Chromosome chr15
+Tabulating statistics for Chromosome chr16
+
+Chromosome chr16 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr16/stats_non_filtered.txt:SN	0	number of records:	2176
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr16/stats_non_filtered.txt:SN	0	number of SNPs:	1998
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr16/stats_non_filtered.txt:SN	0	number of indels:	178
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr16/stats_filtered.txt:SN	0	number of records:	2043
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr16/stats_filtered.txt:SN	0	number of SNPs:	1888
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr16/stats_filtered.txt:SN	0	number of indels:	155
+
+Summary Statistics of INFO/DP Field:
+Mean: 60.6535 Median: 0
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.686351 Median: 0
+Tabulation completed for Chromosome chr16
+Tabulating statistics for Chromosome chr17
+
+Chromosome chr17 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr17/stats_non_filtered.txt:SN	0	number of records:	2764
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr17/stats_non_filtered.txt:SN	0	number of SNPs:	2520
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr17/stats_non_filtered.txt:SN	0	number of indels:	244
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr17/stats_filtered.txt:SN	0	number of records:	2663
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr17/stats_filtered.txt:SN	0	number of SNPs:	2443
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr17/stats_filtered.txt:SN	0	number of indels:	220
+
+Summary Statistics of INFO/DP Field:
+Mean: 58.9863 Median: 0
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.682525 Median: 0
+Tabulation completed for Chromosome chr17
+Tabulating statistics for Chromosome chr18
+
+Chromosome chr18 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr18/stats_non_filtered.txt:SN	0	number of records:	732
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr18/stats_non_filtered.txt:SN	0	number of SNPs:	668
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr18/stats_non_filtered.txt:SN	0	number of indels:	64
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr18/stats_filtered.txt:SN	0	number of records:	715
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr18/stats_filtered.txt:SN	0	number of SNPs:	654
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr18/stats_filtered.txt:SN	0	number of indels:	61
+
+Summary Statistics of INFO/DP Field:
+Mean: 50.5096 Median: 0
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.663251 Median: 0
+Tabulation completed for Chromosome chr18
+Tabulating statistics for Chromosome chr19
+
+Chromosome chr19 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr19/stats_non_filtered.txt:SN	0	number of records:	3770
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr19/stats_non_filtered.txt:SN	0	number of SNPs:	3527
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr19/stats_non_filtered.txt:SN	0	number of indels:	244
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr19/stats_filtered.txt:SN	0	number of records:	3596
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr19/stats_filtered.txt:SN	0	number of SNPs:	3377
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr19/stats_filtered.txt:SN	0	number of indels:	220
+
+Summary Statistics of INFO/DP Field:
+Mean: 55.5358 Median: 0
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.664058 Median: 0
+Tabulation completed for Chromosome chr19
+Tabulating statistics for Chromosome chr20
+
+Chromosome chr20 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr20/stats_non_filtered.txt:SN	0	number of records:	1156
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr20/stats_non_filtered.txt:SN	0	number of SNPs:	1064
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr20/stats_non_filtered.txt:SN	0	number of indels:	92
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr20/stats_filtered.txt:SN	0	number of records:	1112
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr20/stats_filtered.txt:SN	0	number of SNPs:	1030
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr20/stats_filtered.txt:SN	0	number of indels:	82
+
+Summary Statistics of INFO/DP Field:
+Mean: 55.4766 Median: 0
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.660035 Median: 0
+Tabulation completed for Chromosome chr20
+Tabulating statistics for Chromosome chr21
+
+Chromosome chr21 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr21/stats_non_filtered.txt:SN	0	number of records:	727
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr21/stats_non_filtered.txt:SN	0	number of SNPs:	660
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr21/stats_non_filtered.txt:SN	0	number of indels:	67
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr21/stats_filtered.txt:SN	0	number of records:	695
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr21/stats_filtered.txt:SN	0	number of SNPs:	635
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr21/stats_filtered.txt:SN	0	number of indels:	60
+
+Summary Statistics of INFO/DP Field:
+Mean: 60.9133 Median: 
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.676754 Median: 
+Tabulation completed for Chromosome chr21
+Tabulating statistics for Chromosome chr22
+
+Chromosome chr22 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr22/stats_non_filtered.txt:SN	0	number of records:	1224
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr22/stats_non_filtered.txt:SN	0	number of SNPs:	1137
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr22/stats_non_filtered.txt:SN	0	number of indels:	87
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr22/stats_filtered.txt:SN	0	number of records:	1155
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr22/stats_filtered.txt:SN	0	number of SNPs:	1082
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr22/stats_filtered.txt:SN	0	number of indels:	73
+
+Summary Statistics of INFO/DP Field:
+Mean: 58.3056 Median: 0
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.690768 Median: 0
+Tabulation completed for Chromosome chr22
+Tabulating statistics for Chromosome chrX
+
+Chromosome chrX Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrX/stats_non_filtered.txt:SN	0	number of records:	692
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrX/stats_non_filtered.txt:SN	0	number of SNPs:	614
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrX/stats_non_filtered.txt:SN	0	number of indels:	78
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrX/stats_filtered.txt:SN	0	number of records:	599
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrX/stats_filtered.txt:SN	0	number of SNPs:	545
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrX/stats_filtered.txt:SN	0	number of indels:	54
+
+Summary Statistics of INFO/DP Field:
+Mean: 25.4017 Median: 0
+
+Summary Statistics of INFO/AF Field:
+Mean: 1 Median: 0
+Tabulation completed for Chromosome chrX
+Tabulating statistics for Chromosome chrY
+
+Chromosome chrY Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrY/stats_non_filtered.txt:SN	0	number of records:	9
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrY/stats_non_filtered.txt:SN	0	number of SNPs:	8
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrY/stats_non_filtered.txt:SN	0	number of indels:	1
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrY/stats_filtered.txt:SN	0	number of records:	8
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrY/stats_filtered.txt:SN	0	number of SNPs:	7
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrY/stats_filtered.txt:SN	0	number of indels:	1
+
+Summary Statistics of INFO/DP Field:
+Mean: 26.8889 Median: 
+
+Summary Statistics of INFO/AF Field:
+Mean: 1 Median: 
+Tabulation completed for Chromosome chrY
+
+Chromosome chr1 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr1/stats_non_filtered.txt:SN	0	number of records:	4604
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr1/stats_non_filtered.txt:SN	0	number of SNPs:	4272
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr1/stats_non_filtered.txt:SN	0	number of indels:	332
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr1/stats_filtered.txt:SN	0	number of records:	4340
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr1/stats_filtered.txt:SN	0	number of SNPs:	4029
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr1/stats_filtered.txt:SN	0	number of indels:	311
+
+Summary Statistics of INFO/DP Field:
+Mean: 57.1025 Median: 25
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.663228 Median: 1
+
+Chromosome chr2 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr2/stats_non_filtered.txt:SN	0	number of records:	3335
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr2/stats_non_filtered.txt:SN	0	number of SNPs:	3075
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr2/stats_non_filtered.txt:SN	0	number of indels:	262
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr2/stats_filtered.txt:SN	0	number of records:	3223
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr2/stats_filtered.txt:SN	0	number of SNPs:	2983
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr2/stats_filtered.txt:SN	0	number of indels:	242
+
+Summary Statistics of INFO/DP Field:
+Mean: 52.3196 Median: 55
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.664468 Median: 1
+
+Chromosome chr3 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr3/stats_non_filtered.txt:SN	0	number of records:	2299
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr3/stats_non_filtered.txt:SN	0	number of SNPs:	2110
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr3/stats_non_filtered.txt:SN	0	number of indels:	189
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr3/stats_filtered.txt:SN	0	number of records:	2168
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr3/stats_filtered.txt:SN	0	number of SNPs:	1997
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr3/stats_filtered.txt:SN	0	number of indels:	171
+
+Summary Statistics of INFO/DP Field:
+Mean: 48.9826 Median: 57
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.670726 Median: 1
+
+Chromosome chr4 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr4/stats_non_filtered.txt:SN	0	number of records:	1810
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr4/stats_non_filtered.txt:SN	0	number of SNPs:	1656
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr4/stats_non_filtered.txt:SN	0	number of indels:	155
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr4/stats_filtered.txt:SN	0	number of records:	1706
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr4/stats_filtered.txt:SN	0	number of SNPs:	1562
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr4/stats_filtered.txt:SN	0	number of indels:	145
+
+Summary Statistics of INFO/DP Field:
+Mean: 46.6934 Median: 1
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.66547 Median: 1
+
+Chromosome chr5 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr5/stats_non_filtered.txt:SN	0	number of records:	1938
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr5/stats_non_filtered.txt:SN	0	number of SNPs:	1760
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr5/stats_non_filtered.txt:SN	0	number of indels:	179
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr5/stats_filtered.txt:SN	0	number of records:	1893
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr5/stats_filtered.txt:SN	0	number of SNPs:	1724
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr5/stats_filtered.txt:SN	0	number of indels:	170
+
+Summary Statistics of INFO/DP Field:
+Mean: 52.628 Median: 1
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.672085 Median: 1
+
+Chromosome chr6 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr6/stats_non_filtered.txt:SN	0	number of records:	2869
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr6/stats_non_filtered.txt:SN	0	number of SNPs:	2634
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr6/stats_non_filtered.txt:SN	0	number of indels:	237
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr6/stats_filtered.txt:SN	0	number of records:	2755
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr6/stats_filtered.txt:SN	0	number of SNPs:	2534
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr6/stats_filtered.txt:SN	0	number of indels:	223
+
+Summary Statistics of INFO/DP Field:
+Mean: 49.4273 Median: 49
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.657895 Median: 0.5
+
+Chromosome chr7 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr7/stats_non_filtered.txt:SN	0	number of records:	2305
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr7/stats_non_filtered.txt:SN	0	number of SNPs:	2105
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr7/stats_non_filtered.txt:SN	0	number of indels:	200
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr7/stats_filtered.txt:SN	0	number of records:	2174
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr7/stats_filtered.txt:SN	0	number of SNPs:	1991
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr7/stats_filtered.txt:SN	0	number of indels:	183
+
+Summary Statistics of INFO/DP Field:
+Mean: 51.108 Median: 48
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.672234 Median: 0.5
+
+Chromosome chr8 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr8/stats_non_filtered.txt:SN	0	number of records:	1661
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr8/stats_non_filtered.txt:SN	0	number of SNPs:	1533
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr8/stats_non_filtered.txt:SN	0	number of indels:	128
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr8/stats_filtered.txt:SN	0	number of records:	1580
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr8/stats_filtered.txt:SN	0	number of SNPs:	1460
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr8/stats_filtered.txt:SN	0	number of indels:	120
+
+Summary Statistics of INFO/DP Field:
+Mean: 51.8098 Median: 56
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.673992 Median: 0.5
+
+Chromosome chr9 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr9/stats_non_filtered.txt:SN	0	number of records:	1851
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr9/stats_non_filtered.txt:SN	0	number of SNPs:	1693
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr9/stats_non_filtered.txt:SN	0	number of indels:	159
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr9/stats_filtered.txt:SN	0	number of records:	1764
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr9/stats_filtered.txt:SN	0	number of SNPs:	1619
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr9/stats_filtered.txt:SN	0	number of indels:	146
+
+Summary Statistics of INFO/DP Field:
+Mean: 54.3803 Median: 8
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.67342 Median: 0.5
+
+Chromosome chr10 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr10/stats_non_filtered.txt:SN	0	number of records:	1889
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr10/stats_non_filtered.txt:SN	0	number of SNPs:	1737
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr10/stats_non_filtered.txt:SN	0	number of indels:	152
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr10/stats_filtered.txt:SN	0	number of records:	1769
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr10/stats_filtered.txt:SN	0	number of SNPs:	1628
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr10/stats_filtered.txt:SN	0	number of indels:	141
+
+Summary Statistics of INFO/DP Field:
+Mean: 52.0704 Median: 6
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.673902 Median: 1
+
+Chromosome chr11 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr11/stats_non_filtered.txt:SN	0	number of records:	2851
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr11/stats_non_filtered.txt:SN	0	number of SNPs:	2611
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr11/stats_non_filtered.txt:SN	0	number of indels:	242
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr11/stats_filtered.txt:SN	0	number of records:	2769
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr11/stats_filtered.txt:SN	0	number of SNPs:	2547
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr11/stats_filtered.txt:SN	0	number of indels:	224
+
+Summary Statistics of INFO/DP Field:
+Mean: 54.2227 Median: 26
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.668011 Median: 0.5
+
+Chromosome chr12 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr12/stats_non_filtered.txt:SN	0	number of records:	2274
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr12/stats_non_filtered.txt:SN	0	number of SNPs:	2086
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr12/stats_non_filtered.txt:SN	0	number of indels:	188
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr12/stats_filtered.txt:SN	0	number of records:	2211
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr12/stats_filtered.txt:SN	0	number of SNPs:	2037
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr12/stats_filtered.txt:SN	0	number of indels:	174
+
+Summary Statistics of INFO/DP Field:
+Mean: 51.7753 Median: 45
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.656992 Median: 1
+
+Chromosome chr13 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr13/stats_non_filtered.txt:SN	0	number of records:	756
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr13/stats_non_filtered.txt:SN	0	number of SNPs:	665
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr13/stats_non_filtered.txt:SN	0	number of indels:	91
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr13/stats_filtered.txt:SN	0	number of records:	715
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr13/stats_filtered.txt:SN	0	number of SNPs:	634
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr13/stats_filtered.txt:SN	0	number of indels:	81
+
+Summary Statistics of INFO/DP Field:
+Mean: 48.4206 Median: 70
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.641534 Median: 0.5
+
+Chromosome chr14 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr14/stats_non_filtered.txt:SN	0	number of records:	1791
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr14/stats_non_filtered.txt:SN	0	number of SNPs:	1622
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr14/stats_non_filtered.txt:SN	0	number of indels:	171
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr14/stats_filtered.txt:SN	0	number of records:	1728
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr14/stats_filtered.txt:SN	0	number of SNPs:	1570
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr14/stats_filtered.txt:SN	0	number of indels:	160
+
+Summary Statistics of INFO/DP Field:
+Mean: 50.3361 Median: 23
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.67225 Median: 0.5
+
+Chromosome chr15 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr15/stats_non_filtered.txt:SN	0	number of records:	1612
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr15/stats_non_filtered.txt:SN	0	number of SNPs:	1499
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr15/stats_non_filtered.txt:SN	0	number of indels:	114
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr15/stats_filtered.txt:SN	0	number of records:	1475
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr15/stats_filtered.txt:SN	0	number of SNPs:	1377
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr15/stats_filtered.txt:SN	0	number of indels:	99
+
+Summary Statistics of INFO/DP Field:
+Mean: 51.6632 Median: 20
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.669975 Median: 0.5
+
+Chromosome chr16 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr16/stats_non_filtered.txt:SN	0	number of records:	2176
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr16/stats_non_filtered.txt:SN	0	number of SNPs:	1998
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr16/stats_non_filtered.txt:SN	0	number of indels:	178
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr16/stats_filtered.txt:SN	0	number of records:	2043
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr16/stats_filtered.txt:SN	0	number of SNPs:	1888
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr16/stats_filtered.txt:SN	0	number of indels:	155
+
+Summary Statistics of INFO/DP Field:
+Mean: 60.6535 Median: 109
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.686351 Median: 1
+
+Chromosome chr17 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr17/stats_non_filtered.txt:SN	0	number of records:	2764
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr17/stats_non_filtered.txt:SN	0	number of SNPs:	2520
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr17/stats_non_filtered.txt:SN	0	number of indels:	244
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr17/stats_filtered.txt:SN	0	number of records:	2663
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr17/stats_filtered.txt:SN	0	number of SNPs:	2443
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr17/stats_filtered.txt:SN	0	number of indels:	220
+
+Summary Statistics of INFO/DP Field:
+Mean: 58.9863 Median: 75
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.682525 Median: 0.5
+
+Chromosome chr18 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr18/stats_non_filtered.txt:SN	0	number of records:	732
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr18/stats_non_filtered.txt:SN	0	number of SNPs:	668
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr18/stats_non_filtered.txt:SN	0	number of indels:	64
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr18/stats_filtered.txt:SN	0	number of records:	715
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr18/stats_filtered.txt:SN	0	number of SNPs:	654
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr18/stats_filtered.txt:SN	0	number of indels:	61
+
+Summary Statistics of INFO/DP Field:
+Mean: 50.5096 Median: 90
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.663251 Median: 0.5
+
+Chromosome chr19 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr19/stats_non_filtered.txt:SN	0	number of records:	3770
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr19/stats_non_filtered.txt:SN	0	number of SNPs:	3527
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr19/stats_non_filtered.txt:SN	0	number of indels:	244
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr19/stats_filtered.txt:SN	0	number of records:	3596
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr19/stats_filtered.txt:SN	0	number of SNPs:	3377
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr19/stats_filtered.txt:SN	0	number of indels:	220
+
+Summary Statistics of INFO/DP Field:
+Mean: 55.5358 Median: 102
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.664058 Median: 1
+
+Chromosome chr20 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr20/stats_non_filtered.txt:SN	0	number of records:	1156
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr20/stats_non_filtered.txt:SN	0	number of SNPs:	1064
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr20/stats_non_filtered.txt:SN	0	number of indels:	92
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr20/stats_filtered.txt:SN	0	number of records:	1112
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr20/stats_filtered.txt:SN	0	number of SNPs:	1030
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr20/stats_filtered.txt:SN	0	number of indels:	82
+
+Summary Statistics of INFO/DP Field:
+Mean: 55.4766 Median: 5
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.660035 Median: 1
+
+Chromosome chr21 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr21/stats_non_filtered.txt:SN	0	number of records:	727
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr21/stats_non_filtered.txt:SN	0	number of SNPs:	660
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr21/stats_non_filtered.txt:SN	0	number of indels:	67
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr21/stats_filtered.txt:SN	0	number of records:	695
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr21/stats_filtered.txt:SN	0	number of SNPs:	635
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr21/stats_filtered.txt:SN	0	number of indels:	60
+
+Summary Statistics of INFO/DP Field:
+Mean: 60.9133 Median: 36
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.676754 Median: 0.5
+
+Chromosome chr22 Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr22/stats_non_filtered.txt:SN	0	number of records:	1224
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr22/stats_non_filtered.txt:SN	0	number of SNPs:	1137
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr22/stats_non_filtered.txt:SN	0	number of indels:	87
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr22/stats_filtered.txt:SN	0	number of records:	1155
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr22/stats_filtered.txt:SN	0	number of SNPs:	1082
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chr22/stats_filtered.txt:SN	0	number of indels:	73
+
+Summary Statistics of INFO/DP Field:
+Mean: 58.3056 Median: 71
+
+Summary Statistics of INFO/AF Field:
+Mean: 0.690768 Median: 1
+
+Chromosome chrX Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrX/stats_non_filtered.txt:SN	0	number of records:	692
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrX/stats_non_filtered.txt:SN	0	number of SNPs:	614
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrX/stats_non_filtered.txt:SN	0	number of indels:	78
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrX/stats_filtered.txt:SN	0	number of records:	599
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrX/stats_filtered.txt:SN	0	number of SNPs:	545
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrX/stats_filtered.txt:SN	0	number of indels:	54
+
+Summary Statistics of INFO/DP Field:
+Mean: 25.4017 Median: 55
+
+Summary Statistics of INFO/AF Field:
+Mean: 1 Median: 1
+
+Chromosome chrY Statistics:
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrY/stats_non_filtered.txt:SN	0	number of records:	9
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrY/stats_non_filtered.txt:SN	0	number of SNPs:	8
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrY/stats_non_filtered.txt:SN	0	number of indels:	1
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrY/stats_filtered.txt:SN	0	number of records:	8
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrY/stats_filtered.txt:SN	0	number of SNPs:	7
+/home/roshny/AbiomixTestFiles/basedirectory/chromosome_chrY/stats_filtered.txt:SN	0	number of indels:	1
+
+Summary Statistics of INFO/DP Field:
+Mean: 26.8889 Median: 1
+
+Summary Statistics of INFO/AF Field:
+Mean: 1 Median: 1
